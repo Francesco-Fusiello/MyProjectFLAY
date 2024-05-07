@@ -1,0 +1,17 @@
+@import'bootstrap';
+@import './style.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import '@fortawesome/fontawesome-free/css/fontawesome.css';
+@import '@fortawesome/fontawesome-free/css/regular.css';
+@import '@fortawesome/fontawesome-free/css/solid.css';
+@import '@fortawesome/fontawesome-free/css/brands.css';
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+/* @import "/node_modules/flag-icons/css/flag-icons.min.css"; */
+
+@import "/node_modules/flag-icons/css/flag-icons.min.css";
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap");
